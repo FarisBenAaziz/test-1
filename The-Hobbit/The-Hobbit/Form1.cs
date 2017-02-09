@@ -19,17 +19,17 @@ namespace The_Hobbit
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("");
+            MessageBox.Show("Button 1");
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("");
+            MessageBox.Show("Button 2");
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("");
+            MessageBox.Show("Button 3");
         }
     }
 }
